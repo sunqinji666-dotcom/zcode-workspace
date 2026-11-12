@@ -1,0 +1,261 @@
+{
+  "model": "paraformer-v2",
+  "source": "/Users/jacksun/Documents/zcode/gemini-tts-3.8/dialog_test.mp3",
+  "text": "你听这段雨声是不是特别适合第三场？嗯，远处的雷再压低一点会更压抑，那就塌了。",
+  "sentences": [
+    {
+      "text": "你听这段雨声是不是特别适合第三场？",
+      "begin_time": 210,
+      "end_time": 4380,
+      "speaker_id": 0
+    },
+    {
+      "text": "嗯，远处的雷再压低一点会更压抑，那就塌了。",
+      "begin_time": 5250,
+      "end_time": 10050,
+      "speaker_id": 0
+    }
+  ],
+  "raw": {
+    "file_url": "http://zhibo.qiniu.cdn.jack-sun.com/temporary-asr/34f51c0cfe4d46ca83348bd463d146e9.mp3?e=1790524362&token=Xy37lv0HOiYOUufJG5VFAyGZbW0sWBhUj8Ug1mM6:IZPknzkvRmvhiZprIOFEC1APS04=",
+    "properties": {
+      "audio_format": "mp3",
+      "channels": [
+        0
+      ],
+      "original_sampling_rate": 24000,
+      "original_duration_in_milliseconds": 10280
+    },
+    "transcripts": [
+      {
+        "channel_id": 0,
+        "content_duration_in_milliseconds": 8970,
+        "text": "你听这段雨声是不是特别适合第三场？嗯，远处的雷再压低一点会更压抑，那就塌了。",
+        "sentences": [
+          {
+            "begin_time": 210,
+            "end_time": 4380,
+            "text": "你听这段雨声是不是特别适合第三场？",
+            "sentence_id": 1,
+            "speaker_id": 0,
+            "words": [
+              {
+                "begin_time": 210,
+                "end_time": 380,
+                "text": "你",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 380,
+                "end_time": 670,
+                "text": "听",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 1120,
+                "end_time": 1310,
+                "text": "这",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 1310,
+                "end_time": 1470,
+                "text": "段",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 1470,
+                "end_time": 1660,
+                "text": "雨",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 1660,
+                "end_time": 2150,
+                "text": "声",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 2510,
+                "end_time": 2800,
+                "text": "是",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 2800,
+                "end_time": 2870,
+                "text": "不",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 2870,
+                "end_time": 3000,
+                "text": "是",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 3000,
+                "end_time": 3170,
+                "text": "特",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 3170,
+                "end_time": 3290,
+                "text": "别",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 3290,
+                "end_time": 3460,
+                "text": "适",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 3460,
+                "end_time": 3590,
+                "text": "合",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 3590,
+                "end_time": 3720,
+                "text": "第",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 3720,
+                "end_time": 3900,
+                "text": "三",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 3900,
+                "end_time": 4380,
+                "text": "场",
+                "punctuation": "？"
+              }
+            ]
+          },
+          {
+            "begin_time": 5250,
+            "end_time": 10050,
+            "text": "嗯，远处的雷再压低一点会更压抑，那就塌了。",
+            "sentence_id": 2,
+            "speaker_id": 0,
+            "words": [
+              {
+                "begin_time": 5250,
+                "end_time": 5580,
+                "text": "嗯",
+                "punctuation": "，"
+              },
+              {
+                "begin_time": 5850,
+                "end_time": 6110,
+                "text": "远",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 6110,
+                "end_time": 6310,
+                "text": "处",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 6310,
+                "end_time": 6410,
+                "text": "的",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 6410,
+                "end_time": 6620,
+                "text": "雷",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 6620,
+                "end_time": 6770,
+                "text": "再",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 6770,
+                "end_time": 7000,
+                "text": "压",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 7000,
+                "end_time": 7170,
+                "text": "低",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 7170,
+                "end_time": 7300,
+                "text": "一",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 7300,
+                "end_time": 7620,
+                "text": "点",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 7620,
+                "end_time": 8000,
+                "text": "会",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 8000,
+                "end_time": 8250,
+                "text": "更",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 8250,
+                "end_time": 8480,
+                "text": "压",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 8480,
+                "end_time": 8770,
+                "text": "抑",
+                "punctuation": "，"
+              },
+              {
+                "begin_time": 9460,
+                "end_time": 9600,
+                "text": "那",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 9600,
+                "end_time": 9700,
+                "text": "就",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 9700,
+                "end_time": 9860,
+                "text": "塌",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 9860,
+                "end_time": 10050,
+                "text": "了",
+                "punctuation": "。"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

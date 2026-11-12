@@ -1,0 +1,1291 @@
+{
+  "model": "paraformer-v2",
+  "source": "/Users/jacksun/Documents/zcode/gemini-tts-3.8/shixiang_full_zephyr.mp3",
+  "text": "硬盘里散落着几万个声音，他们都有名字，却没人记得住，真正要用的时候只能一个一个翻实。想为影视创作者打造的原声maos声音工作台，整包导入，保留原目录与原文件名。几万条素材建好索引，全文检索秒级命中，更可以直接说一句人话，雨夜远处的雷情绪压抑。本机AI听得懂你的镜头语言，计时试听波形定位ab对比相似声音，一键找到同类bpm响度调性工作台自动分析看中的那一条直接拖进Final Cut Pro，所有索引与理解都在本机完成，不上传一个字节石响。让散落的声音回到他该在的位置。",
+  "sentences": [
+    {
+      "text": "硬盘里散落着几万个声音，他们都有名字，却没人记得住，真正要用的时候只能一个一个翻实。",
+      "begin_time": 260,
+      "end_time": 9320,
+      "speaker_id": null
+    },
+    {
+      "text": "想为影视创作者打造的原声maos声音工作台，整包导入，保留原目录与原文件名。",
+      "begin_time": 9320,
+      "end_time": 17600,
+      "speaker_id": null
+    },
+    {
+      "text": "几万条素材建好索引，全文检索秒级命中，更可以直接说一句人话，雨夜远处的雷情绪压抑。",
+      "begin_time": 18150,
+      "end_time": 28060,
+      "speaker_id": null
+    },
+    {
+      "text": "本机AI听得懂你的镜头语言，计时试听波形定位ab对比相似声音，一键找到同类bpm响度调性工作台自动分析看中的那一条直接拖进Final Cut Pro，所有索引与理解都在本机完成，不上传一个字节石响。",
+      "begin_time": 28640,
+      "end_time": 51740,
+      "speaker_id": null
+    },
+    {
+      "text": "让散落的声音回到他该在的位置。",
+      "begin_time": 52050,
+      "end_time": 55120,
+      "speaker_id": null
+    }
+  ],
+  "raw": {
+    "file_url": "http://zhibo.qiniu.cdn.jack-sun.com/temporary-asr/b321a27f3eb9442384052831f48ba750.mp3?e=1790524378&token=Xy37lv0HOiYOUufJG5VFAyGZbW0sWBhUj8Ug1mM6:_No0XWEO_2rEZ0JFCph8OXy-JbE=",
+    "properties": {
+      "audio_format": "mp3",
+      "channels": [
+        0
+      ],
+      "original_sampling_rate": 24000,
+      "original_duration_in_milliseconds": 55320
+    },
+    "transcripts": [
+      {
+        "channel_id": 0,
+        "content_duration_in_milliseconds": 53420,
+        "text": "硬盘里散落着几万个声音，他们都有名字，却没人记得住，真正要用的时候只能一个一个翻实。想为影视创作者打造的原声maos声音工作台，整包导入，保留原目录与原文件名。几万条素材建好索引，全文检索秒级命中，更可以直接说一句人话，雨夜远处的雷情绪压抑。本机AI听得懂你的镜头语言，计时试听波形定位ab对比相似声音，一键找到同类bpm响度调性工作台自动分析看中的那一条直接拖进Final Cut Pro，所有索引与理解都在本机完成，不上传一个字节石响。让散落的声音回到他该在的位置。",
+        "sentences": [
+          {
+            "begin_time": 260,
+            "end_time": 9320,
+            "text": "硬盘里散落着几万个声音，他们都有名字，却没人记得住，真正要用的时候只能一个一个翻实。",
+            "sentence_id": 1,
+            "words": [
+              {
+                "begin_time": 260,
+                "end_time": 470,
+                "text": "硬",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 470,
+                "end_time": 670,
+                "text": "盘",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 670,
+                "end_time": 1020,
+                "text": "里",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 1020,
+                "end_time": 1240,
+                "text": "散",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 1240,
+                "end_time": 1390,
+                "text": "落",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 1390,
+                "end_time": 1520,
+                "text": "着",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 1520,
+                "end_time": 1740,
+                "text": "几",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 1740,
+                "end_time": 1910,
+                "text": "万",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 1910,
+                "end_time": 2000,
+                "text": "个",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 2000,
+                "end_time": 2230,
+                "text": "声",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 2230,
+                "end_time": 2540,
+                "text": "音",
+                "punctuation": "，"
+              },
+              {
+                "begin_time": 2810,
+                "end_time": 2970,
+                "text": "他",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 2970,
+                "end_time": 3070,
+                "text": "们",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 3070,
+                "end_time": 3200,
+                "text": "都",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 3200,
+                "end_time": 3340,
+                "text": "有",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 3340,
+                "end_time": 3550,
+                "text": "名",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 3550,
+                "end_time": 3870,
+                "text": "字",
+                "punctuation": "，"
+              },
+              {
+                "begin_time": 4000,
+                "end_time": 4190,
+                "text": "却",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 4190,
+                "end_time": 4340,
+                "text": "没",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 4340,
+                "end_time": 4500,
+                "text": "人",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 4500,
+                "end_time": 4690,
+                "text": "记",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 4690,
+                "end_time": 4790,
+                "text": "得",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 4790,
+                "end_time": 5130,
+                "text": "住",
+                "punctuation": "，"
+              },
+              {
+                "begin_time": 5770,
+                "end_time": 5930,
+                "text": "真",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 5930,
+                "end_time": 6050,
+                "text": "正",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 6050,
+                "end_time": 6220,
+                "text": "要",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 6220,
+                "end_time": 6390,
+                "text": "用",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 6390,
+                "end_time": 6480,
+                "text": "的",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 6480,
+                "end_time": 6640,
+                "text": "时",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 6640,
+                "end_time": 6920,
+                "text": "候",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 6920,
+                "end_time": 7080,
+                "text": "只",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 7080,
+                "end_time": 7280,
+                "text": "能",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 7280,
+                "end_time": 7470,
+                "text": "一",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 7470,
+                "end_time": 7610,
+                "text": "个",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 7610,
+                "end_time": 7740,
+                "text": "一",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 7740,
+                "end_time": 7840,
+                "text": "个",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 7840,
+                "end_time": 8250,
+                "text": "翻",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 8960,
+                "end_time": 9320,
+                "text": "实",
+                "punctuation": "。"
+              }
+            ]
+          },
+          {
+            "begin_time": 9320,
+            "end_time": 17600,
+            "text": "想为影视创作者打造的原声maos声音工作台，整包导入，保留原目录与原文件名。",
+            "sentence_id": 2,
+            "words": [
+              {
+                "begin_time": 9320,
+                "end_time": 9710,
+                "text": "想",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 10090,
+                "end_time": 10330,
+                "text": "为",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 10330,
+                "end_time": 10500,
+                "text": "影",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 10500,
+                "end_time": 10620,
+                "text": "视",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 10620,
+                "end_time": 10810,
+                "text": "创",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 10810,
+                "end_time": 10940,
+                "text": "作",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 10940,
+                "end_time": 11090,
+                "text": "者",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 11090,
+                "end_time": 11260,
+                "text": "打",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 11260,
+                "end_time": 11450,
+                "text": "造",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 11450,
+                "end_time": 11670,
+                "text": "的",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 11670,
+                "end_time": 12000,
+                "text": "原",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 12000,
+                "end_time": 12210,
+                "text": "声",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 12210,
+                "end_time": 12860,
+                "text": "maos",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 12860,
+                "end_time": 13180,
+                "text": "声",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 13180,
+                "end_time": 13350,
+                "text": "音",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 13350,
+                "end_time": 13520,
+                "text": "工",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 13520,
+                "end_time": 13660,
+                "text": "作",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 13660,
+                "end_time": 13950,
+                "text": "台",
+                "punctuation": "，"
+              },
+              {
+                "begin_time": 14520,
+                "end_time": 14810,
+                "text": "整",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 14810,
+                "end_time": 15000,
+                "text": "包",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 15000,
+                "end_time": 15180,
+                "text": "导",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 15180,
+                "end_time": 15480,
+                "text": "入",
+                "punctuation": "，"
+              },
+              {
+                "begin_time": 15580,
+                "end_time": 15780,
+                "text": "保",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 15780,
+                "end_time": 15970,
+                "text": "留",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 15970,
+                "end_time": 16170,
+                "text": "原",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 16170,
+                "end_time": 16310,
+                "text": "目",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 16310,
+                "end_time": 16570,
+                "text": "录",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 16570,
+                "end_time": 16820,
+                "text": "与",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 16820,
+                "end_time": 17000,
+                "text": "原",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 17000,
+                "end_time": 17160,
+                "text": "文",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 17160,
+                "end_time": 17350,
+                "text": "件",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 17350,
+                "end_time": 17600,
+                "text": "名",
+                "punctuation": "。"
+              }
+            ]
+          },
+          {
+            "begin_time": 18150,
+            "end_time": 28060,
+            "text": "几万条素材建好索引，全文检索秒级命中，更可以直接说一句人话，雨夜远处的雷情绪压抑。",
+            "sentence_id": 3,
+            "words": [
+              {
+                "begin_time": 18150,
+                "end_time": 18380,
+                "text": "几",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 18380,
+                "end_time": 18520,
+                "text": "万",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 18520,
+                "end_time": 18710,
+                "text": "条",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 18710,
+                "end_time": 18870,
+                "text": "素",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 18870,
+                "end_time": 19150,
+                "text": "材",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 19150,
+                "end_time": 19380,
+                "text": "建",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 19380,
+                "end_time": 19570,
+                "text": "好",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 19570,
+                "end_time": 19850,
+                "text": "索",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 19850,
+                "end_time": 20090,
+                "text": "引",
+                "punctuation": "，"
+              },
+              {
+                "begin_time": 20230,
+                "end_time": 20590,
+                "text": "全",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 20590,
+                "end_time": 20800,
+                "text": "文",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 20800,
+                "end_time": 21020,
+                "text": "检",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 21020,
+                "end_time": 21280,
+                "text": "索",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 21390,
+                "end_time": 21750,
+                "text": "秒",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 21750,
+                "end_time": 21980,
+                "text": "级",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 21980,
+                "end_time": 22160,
+                "text": "命",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 22160,
+                "end_time": 22430,
+                "text": "中",
+                "punctuation": "，"
+              },
+              {
+                "begin_time": 23140,
+                "end_time": 23300,
+                "text": "更",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 23300,
+                "end_time": 23440,
+                "text": "可",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 23440,
+                "end_time": 23540,
+                "text": "以",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 23540,
+                "end_time": 23720,
+                "text": "直",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 23720,
+                "end_time": 23880,
+                "text": "接",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 23880,
+                "end_time": 24050,
+                "text": "说",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 24050,
+                "end_time": 24140,
+                "text": "一",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 24140,
+                "end_time": 24290,
+                "text": "句",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 24290,
+                "end_time": 24500,
+                "text": "人",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 24500,
+                "end_time": 24880,
+                "text": "话",
+                "punctuation": "，"
+              },
+              {
+                "begin_time": 25350,
+                "end_time": 25550,
+                "text": "雨",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 25550,
+                "end_time": 25880,
+                "text": "夜",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 26040,
+                "end_time": 26320,
+                "text": "远",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 26320,
+                "end_time": 26500,
+                "text": "处",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 26500,
+                "end_time": 26620,
+                "text": "的",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 26620,
+                "end_time": 26960,
+                "text": "雷",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 27050,
+                "end_time": 27370,
+                "text": "情",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 27370,
+                "end_time": 27570,
+                "text": "绪",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 27570,
+                "end_time": 27810,
+                "text": "压",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 27810,
+                "end_time": 28060,
+                "text": "抑",
+                "punctuation": "。"
+              }
+            ]
+          },
+          {
+            "begin_time": 28640,
+            "end_time": 51740,
+            "text": "本机AI听得懂你的镜头语言，计时试听波形定位ab对比相似声音，一键找到同类bpm响度调性工作台自动分析看中的那一条直接拖进Final Cut Pro，所有索引与理解都在本机完成，不上传一个字节石响。",
+            "sentence_id": 4,
+            "words": [
+              {
+                "begin_time": 28640,
+                "end_time": 28860,
+                "text": "本",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 28860,
+                "end_time": 29030,
+                "text": "机",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 29030,
+                "end_time": 29410,
+                "text": "AI",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 29410,
+                "end_time": 29630,
+                "text": "听",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 29630,
+                "end_time": 29740,
+                "text": "得",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 29740,
+                "end_time": 29950,
+                "text": "懂",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 29950,
+                "end_time": 30090,
+                "text": "你",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 30090,
+                "end_time": 30190,
+                "text": "的",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 30190,
+                "end_time": 30390,
+                "text": "镜",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 30390,
+                "end_time": 30610,
+                "text": "头",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 30610,
+                "end_time": 30760,
+                "text": "语",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 30760,
+                "end_time": 31030,
+                "text": "言",
+                "punctuation": "，"
+              },
+              {
+                "begin_time": 31700,
+                "end_time": 31940,
+                "text": "计",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 31940,
+                "end_time": 32100,
+                "text": "时",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 32100,
+                "end_time": 32270,
+                "text": "试",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 32270,
+                "end_time": 32630,
+                "text": "听",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 32900,
+                "end_time": 33140,
+                "text": "波",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 33140,
+                "end_time": 33350,
+                "text": "形",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 33350,
+                "end_time": 33530,
+                "text": "定",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 33530,
+                "end_time": 33830,
+                "text": "位",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 34100,
+                "end_time": 34550,
+                "text": "ab",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 34550,
+                "end_time": 34750,
+                "text": "对",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 34750,
+                "end_time": 34990,
+                "text": "比",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 35340,
+                "end_time": 35620,
+                "text": "相",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 35620,
+                "end_time": 35760,
+                "text": "似",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 35760,
+                "end_time": 35920,
+                "text": "声",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 35920,
+                "end_time": 36150,
+                "text": "音",
+                "punctuation": "，"
+              },
+              {
+                "begin_time": 36150,
+                "end_time": 36420,
+                "text": "一",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 36420,
+                "end_time": 36700,
+                "text": "键",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 36700,
+                "end_time": 36940,
+                "text": "找",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 36940,
+                "end_time": 37080,
+                "text": "到",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 37080,
+                "end_time": 37320,
+                "text": "同",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 37320,
+                "end_time": 37550,
+                "text": "类",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 38130,
+                "end_time": 38770,
+                "text": "bpm",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 38920,
+                "end_time": 39330,
+                "text": "响",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 39330,
+                "end_time": 39630,
+                "text": "度",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 39870,
+                "end_time": 40160,
+                "text": "调",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 40160,
+                "end_time": 40450,
+                "text": "性",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 40610,
+                "end_time": 40800,
+                "text": "工",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 40800,
+                "end_time": 40940,
+                "text": "作",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 40940,
+                "end_time": 41160,
+                "text": "台",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 41160,
+                "end_time": 41420,
+                "text": "自",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 41420,
+                "end_time": 41580,
+                "text": "动",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 41580,
+                "end_time": 41780,
+                "text": "分",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 41780,
+                "end_time": 42070,
+                "text": "析",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 42650,
+                "end_time": 42870,
+                "text": "看",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 42870,
+                "end_time": 43000,
+                "text": "中",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 43000,
+                "end_time": 43090,
+                "text": "的",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 43090,
+                "end_time": 43200,
+                "text": "那",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 43200,
+                "end_time": 43300,
+                "text": "一",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 43300,
+                "end_time": 43660,
+                "text": "条",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 43660,
+                "end_time": 43890,
+                "text": "直",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 43890,
+                "end_time": 44050,
+                "text": "接",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 44050,
+                "end_time": 44250,
+                "text": "拖",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 44250,
+                "end_time": 44440,
+                "text": "进",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 44440,
+                "end_time": 45360,
+                "text": "Final Cut Pro",
+                "punctuation": "，"
+              },
+              {
+                "begin_time": 46040,
+                "end_time": 46360,
+                "text": "所",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 46360,
+                "end_time": 46520,
+                "text": "有",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 46520,
+                "end_time": 46720,
+                "text": "索",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 46720,
+                "end_time": 46900,
+                "text": "引",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 46900,
+                "end_time": 47050,
+                "text": "与",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 47050,
+                "end_time": 47220,
+                "text": "理",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 47220,
+                "end_time": 47510,
+                "text": "解",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 47510,
+                "end_time": 47690,
+                "text": "都",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 47690,
+                "end_time": 47870,
+                "text": "在",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 47870,
+                "end_time": 48120,
+                "text": "本",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 48120,
+                "end_time": 48340,
+                "text": "机",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 48340,
+                "end_time": 48520,
+                "text": "完",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 48520,
+                "end_time": 48810,
+                "text": "成",
+                "punctuation": "，"
+              },
+              {
+                "begin_time": 49030,
+                "end_time": 49190,
+                "text": "不",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 49190,
+                "end_time": 49380,
+                "text": "上",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 49380,
+                "end_time": 49560,
+                "text": "传",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 49560,
+                "end_time": 49830,
+                "text": "一",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 49830,
+                "end_time": 49950,
+                "text": "个",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 49950,
+                "end_time": 50130,
+                "text": "字",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 50130,
+                "end_time": 50420,
+                "text": "节",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 51070,
+                "end_time": 51420,
+                "text": "石",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 51420,
+                "end_time": 51740,
+                "text": "响",
+                "punctuation": "。"
+              }
+            ]
+          },
+          {
+            "begin_time": 52050,
+            "end_time": 55120,
+            "text": "让散落的声音回到他该在的位置。",
+            "sentence_id": 5,
+            "words": [
+              {
+                "begin_time": 52050,
+                "end_time": 52270,
+                "text": "让",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 52270,
+                "end_time": 52530,
+                "text": "散",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 52530,
+                "end_time": 52670,
+                "text": "落",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 52670,
+                "end_time": 52770,
+                "text": "的",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 52770,
+                "end_time": 52950,
+                "text": "声",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 52950,
+                "end_time": 53230,
+                "text": "音",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 53310,
+                "end_time": 53680,
+                "text": "回",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 53680,
+                "end_time": 53930,
+                "text": "到",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 53930,
+                "end_time": 54230,
+                "text": "他",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 54230,
+                "end_time": 54470,
+                "text": "该",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 54470,
+                "end_time": 54640,
+                "text": "在",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 54640,
+                "end_time": 54730,
+                "text": "的",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 54730,
+                "end_time": 54890,
+                "text": "位",
+                "punctuation": ""
+              },
+              {
+                "begin_time": 54890,
+                "end_time": 55120,
+                "text": "置",
+                "punctuation": "。"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

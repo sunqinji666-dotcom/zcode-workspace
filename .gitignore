@@ -19,3 +19,8 @@ __pycache__/
 *.safetensors
 *.gguf
 *api-key*.txt
+
+# 扫描缓存与音频输出
+.icloud-scan/
+*.wav
+*.mp3

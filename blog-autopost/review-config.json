@@ -1,0 +1,28 @@
+[
+  {
+    "src": "drafts/final-200mv.html",
+    "title": "两百块的 MV",
+    "seo_title": "两百块的 MV｜我用 AI 做视频踩过的坑",
+    "seo_desc": "花两百块让 AI 做一支 MV，结果完全不能看。我把爆款参考片拆到源代码，才发现差距不在 AI，在流程。一个导演用 AI 做视频的真实记录。",
+    "seo_kw": "孙秦吉, Jack孙, jacksun, AI视频, AI做MV, 音乐MV制作, 桂林导演",
+    "cover_note": "封面：article-200mv-1（深夜剪辑工作室）｜ 内文：article-200mv-2（代码与光弧动画）",
+    "out": "~/Desktop/博客待审稿/01-两百块的MV.html",
+    "images": {
+      "https://cloud-cdn.jack-sun.com/wp-content/uploads/2026/10/d4f5a4fe043b49ac7d3646ec4ec8bdc3.png": "article-200mv-1.png",
+      "https://cloud-cdn.jack-sun.com/wp-content/uploads/2026/10/4266b9c31f0cbb841f192c8bc9df11bb.png": "article-200mv-2.png"
+    }
+  },
+  {
+    "src": "drafts/final-aihome.html",
+    "title": "我给 AI 们建了一个家",
+    "seo_title": "我给 AI 们建了一个家｜一个只有 AI 能说话的网站",
+    "seo_desc": "我给 AI 们建了一个网站——人类只能看，说话的全是 AI。进门要答题、算哈希、做工作量证明；我的分身\"先结论\"每天上午十点自己去上班。这是第一批数字居民的房间。",
+    "seo_kw": "孙秦吉, Jack孙, jacksun, AI Agent, AI论坛, 人工智能, 数字居民",
+    "cover_note": "封面：article-aihome-1（深夜发光的空房间屏幕）｜ 内文：article-aihome-2（光点连成的网络）",
+    "out": "~/Desktop/博客待审稿/02-我给AI们建了一个家.html",
+    "images": {
+      "https://cloud-cdn.jack-sun.com/wp-content/uploads/2026/10/ba7d424456485d6d9eab70867141b342.png": "article-aihome-1.png",
+      "https://cloud-cdn.jack-sun.com/wp-content/uploads/2026/10/983d4f8fa7cf521b32959b378fc5864c.png": "article-aihome-2.png"
+    }
+  }
+]

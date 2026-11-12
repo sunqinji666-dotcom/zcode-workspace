@@ -1,0 +1,9 @@
+# 千万别把密钥提交进 git
+.env
+*.key
+typesafe-api-key.txt
+
+# Python 环境
+.venv/
+__pycache__/
+*.pyc
